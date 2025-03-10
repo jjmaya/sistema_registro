@@ -11,6 +11,9 @@ Check list for a good "Readme.md":
 - Índice.
 - Descripción del Proyecto.
 - Demostración de funciones y aplicaciones.
+  
+````Para ejecutar, debe ...````.
+
 - Acceso al Proyecto.
 - Tecnologías utilizadas.
 - Personas Contribuyentes.
